@@ -6,13 +6,24 @@
   <a href="https://github.com/maguro-alternative">
     <img height="20" src="https://img.shields.io/github/followers/maguro-alternative?label=follow&logo=github&style=flat" />
   </a>
-</p>  
+</p>
+
+
+ - 名前　　：マグロ
+ - 本名　　：佐々木陽貴(SASAKI haruki)  
+ - 所属　　：日本大学工学部　情報研究会(通称：Joken)  
+ - コメント：***ロックマンXと閃乱カグラの新作をよこせ！！！！***
+
+# GitHubでの成績らしい
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=maguro-alternative&show_icons=true&theme=radical">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguro-alternative&layout=compact">
 </p>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maguro-alternative&column=7)](https://github.com/maguro-alternative/github-profile-trophy)  
+
+# なにつくってるの？？
+PythonでDiscordBotを中心にいろいろ作ってます。  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo)  
 
 
