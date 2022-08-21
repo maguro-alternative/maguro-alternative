@@ -31,7 +31,7 @@ PythonでDiscordBotを中心にいろいろ作ってます。
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=mywebsite)](https://github.com/maguro-alternative/mywebsite) 
 
 昔はLINEBotをJavaScriptで書いてました。  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=LINE_bot)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=LINE_bot)](https://github.com/maguro-alternative/LINE_bot) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=line_to_discord-for-gas)](https://github.com/maguro-alternative/line_to_discord-for-gas) 
 
 <!--
