@@ -7,7 +7,8 @@
   </a>
 </p>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maguro-alternative)](https://github.com/maguro-alternative/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maguro-alternative)](https://github.com/maguro-alternative/github-readme-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=maguro-alternative)](https://github.com/maguro-alternative/github-profile-trophy)
 
 ### Hi there 👋
 
