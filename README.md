@@ -7,12 +7,14 @@
     <img height="20" src="https://img.shields.io/github/followers/maguro-alternative?label=follow&logo=github&style=flat" />
   </a>
 </p>  
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=maguro-alternative&show_icons=true&theme=radical">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguro-alternative&layout=compact">
+</p>  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maguro-alternative&show_icons=true&theme=radical)](https://github.com/maguro-alternative/github-readme-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=maguro-alternative)](https://github.com/maguro-alternative/github-profile-trophy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maguro-alternative&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=maguro-alternative&column=7)](https://github.com/maguro-alternative/github-profile-trophy)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo)
 
 
 
