@@ -1,3 +1,12 @@
+<p align="left">
+  <a href="http://twitter.com/sigumataityouda">
+    <img height="20" src="https://img.shields.io/twitter/follow/sigumataityouda?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/maguro-alternative">
+    <img height="20" src="https://img.shields.io/github/followers/maguro-alternative?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 ### Hi there 👋
 
 <!--
