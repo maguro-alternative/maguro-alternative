@@ -6,6 +6,12 @@
   <a href="https://github.com/maguro-alternative">
     <img height="20" src="https://img.shields.io/github/followers/maguro-alternative?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://qiita.com/maguro-alternative">
+    <img height="20" src="https://img.shields.io/badge/maguro-alternative-${color}.svg?style=social&logo=qiita" />
+  </a>
+  <a href="https://zenn.dev/maguro_alterna">
+    <img height="20" src="https://img.shields.io/badge/マグロ-alterna-${color}.svg?style=social&logo=zenn" />
+  </a>
 </p>
 
 
