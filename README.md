@@ -33,7 +33,7 @@
 PythonでDiscordBotを中心にいろいろ作ってます。  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=remote-karaoke)](https://github.com/maguro-alternative/remote-karaoke)  
 最近はReact触ってます。型定義ってなんだぁ？？  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=react_ts_tutorial)](https://github.com/maguro-alternative/react_ts_tutorial) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=next_maguro)](https://github.com/maguro-alternative/next_maguro) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=mywebsite)](https://github.com/maguro-alternative/mywebsite) 
 
 昔はLINEBotをJavaScriptで書いてました。  
