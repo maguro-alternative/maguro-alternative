@@ -8,11 +8,15 @@
   </a>
   <a href="https://qiita.com/maguro-alternative">
     <img height="20" src="https://img.shields.io/badge/maguro-alternative-${color}.svg?style=social&logo=qiita" />
-  </a>
+  </a>  
   <a href="https://zenn.dev/maguro_alterna">
     <img height="20" src="https://img.shields.io/badge/マグロ-alterna-${color}.svg?style=social&logo=zenn" />
   </a>
 </p>
+
+[![](https://qiita-badge.apiapi.app/s/maguro-alternative/posts.svg)](http://qiita.com/maguro-alternative) 
+[![](https://qiita-badge.apiapi.app/s/maguro-alternative/contributions.svg)](http://qiita.com/maguro-alternative) 
+[![](https://qiita-badge.apiapi.app/s/maguro-alternative/followers.svg)](http://qiita.com/maguro-alternative)  
 
 
  - 名前　　　　　　　：マグロ
