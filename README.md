@@ -35,7 +35,7 @@
 
 # なにつくってるの？？
 PythonでDiscordBotを中心にいろいろ作ってます。  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=remote-karaoke)](https://github.com/maguro-alternative/remote-karaoke)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discordfast)](https://github.com/maguro-alternative/discordfast)  
 最近はReact触ってます。型定義ってなんだぁ？？  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=next_maguro)](https://github.com/maguro-alternative/next_maguro) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=mywebsite)](https://github.com/maguro-alternative/mywebsite) 
