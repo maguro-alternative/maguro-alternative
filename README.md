@@ -28,7 +28,7 @@
 # GitHubでの成績らしい
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=maguro-alternative&show_icons=true&theme=radical">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguro-alternative&layout=compact&count_private=true">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maguro-alternative&layout=compact&count_private=true&langs_count=10">
 </p>  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=maguro-alternative&column=7)](https://github.com/maguro-alternative/github-profile-trophy)  
