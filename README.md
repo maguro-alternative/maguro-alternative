@@ -32,7 +32,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=maguro-alternative&column=7)](https://github.com/maguro-alternative/github-profile-trophy)  
 
 # なにつくってるの？？
-PythonでDiscordBotを中心にいろいろ作ってます。  
+PythonでDiscordBotを中心にいろいろ作ってます。(最近Goにお熱)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discord_taityo)](https://github.com/maguro-alternative/discord_taityo) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=discordfast)](https://github.com/maguro-alternative/discordfast)  
 最近はReact触ってます。型定義ってなんだぁ？？  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maguro-alternative&repo=next_maguro)](https://github.com/maguro-alternative/next_maguro) 
