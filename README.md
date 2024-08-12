@@ -1,4 +1,4 @@
-# マグロとは？？？？？？？？？？？？？
+# マグロとは？？？？？？？？？？？？
 <p align="left">
   <a href="http://twitter.com/sigumataityouda">
     <img height="20" src="https://img.shields.io/twitter/follow/sigumataityouda?label=Twitter&logo=twitter&style=flat" />
